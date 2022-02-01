@@ -11,4 +11,4 @@ The variables that should be removed from the input data are EIN and NAME becaus
 The model was able to correctly predict an organization's success rate of 72.6%. This is close to but below the target model performance of 75%.
 
 # Summary
-Attempting to optimize the out put percent did not significantly increase the success rate. Only minimul 10THs of percent 
+Attempting to optimize the out put percent did not significantly increase the success rate. Only minimul 10THs of percent.
