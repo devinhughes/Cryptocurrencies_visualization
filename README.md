@@ -1,14 +1,10 @@
-# Neural Network Charity Analysis
+## Cryptocurrencies
+# Overview
+In this analysis we will be preprocessing our data set to prepare our data for analysis. For this analysis we will seek to understand the different cryptocurrencies and understand different clusters and classes each falls under. Preprocessing the dataset will help us to reach our answer.
+# Results
+Below are the scatter plots that we created using KMeans and PCA:
+![image](https://user-images.githubusercontent.com/89948353/153509631-474ce445-6f4c-4426-94bd-d9c2b1018660.png)
 
-## main concept
-In this analysis we preprocessed th data and use a neural networks to build a model to create a system to easily determine which orginizations used the money most effectively.
-
-## Results
-The target variable is succesful since that is the outcome we're trying to predict.
-The variables that should be removed from the input data are EIN and NAME because these are is no beneficial data in those columns.
-
-## Model Proformance 
-The model was able to correctly predict an organization's success rate of 72.6%. This is close to but below the target model performance of 75%.
-
+![image](https://user-images.githubusercontent.com/89948353/153509680-02ef99ba-e44c-46f9-b2f9-5179c2954089.png)
 # Summary
-Attempting to optimize the out put percent did not significantly increase the success rate. Only minimul 10THs of percent.
+This analysis helps us to divide our data set into clusters that were determined by class. With our visualization created we can provide this for clients to make education decisions about which cryptocurrencies to trade.
